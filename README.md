@@ -1,2 +1,2 @@
 耗子个人主页
-https://wehx.github.io/hz/
+https://wehx.github.io/
