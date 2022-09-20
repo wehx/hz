@@ -1,2 +1,2 @@
-# hz
-何加林个人主页
+耗子个人主页
+https://wehx.github.io/hz/
