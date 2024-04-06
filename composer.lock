@@ -1,7 +1,0 @@
-{
-"name": "wehx/wehx",
-"version": "dev-master",
-"require": {
-"php": ">=5.6.0"
-}
-}
